@@ -5,7 +5,7 @@ NLP- extracting emotion and behavioural features from text.
    - NLTK is a leading platform for building Python programs to work with human language data.
    - text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning
 """
-# -------------------------------------------LEXICON MODEL--------------------------------------------------------------
+# ------------------------------------------LEXICON MODEL--------------------------------------------------------------
 # CLEANING THE TEXT:-
 # 1) Create a text file and take test from it
 # 2) Convert the letters into lowercase ('Apple is not equal to 'apple')
