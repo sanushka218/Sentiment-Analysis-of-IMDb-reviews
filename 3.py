@@ -1,6 +1,6 @@
 """
 """
-# ------------------------------------------CLASSIFICATION MODEL----------------------------------------------------
+# ------------------------------------------CLASSIFICATION MODEL USING LOGISTIC REGRESSION----------------------------------------------------
 import numpy as np
 import pandas as pd
 import string
